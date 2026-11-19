@@ -1,0 +1,7 @@
+# Compiled program
+oddeven
+
+# Executables and object files
+*.exe
+*.out
+*.o
